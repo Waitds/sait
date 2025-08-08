@@ -8,4 +8,12 @@ function negatori(){
         img.setAttribute("src","https://www.meme-arsenal.com/memes/9cfcee65b81f3d4d1118d57f1b4bf225.jpg");
     }
     
+    const p=document.getElementById("lisi");
+    if (p.textContent==="text about niga aloooooooooooot of"){
+        p.textContent="лысый хуесос"
+    }
+    else{
+        p.textContent="text about niga aloooooooooooot of"
+    }
+ 
 }
